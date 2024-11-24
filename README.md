@@ -70,7 +70,7 @@
   <section class="preview">
     <h2>📸 Preview</h2>
     <p><a href="https://rutuja1104.github.io/OnlineCakeShop/">Live Demo</a></p>
-    <img src="https://via.placeholder.com/800x400" alt="Cake Carvers Preview">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdoeW1pNWptM29mYTgxaGV6ODFrdHI1MThkenFjNnU2eDljdngybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4ELil7vHpZfy/giphy.webp" alt="Cake Carvers Preview">
   </section>
 
   <section class="technologies">
