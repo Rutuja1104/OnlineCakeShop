@@ -4,49 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #fff8e1;
-    }
-    h1, h2, h3 {
-      color: #d17b00;
-    }
-    a {
-      text-decoration: none;
-      color: #d17b00;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .banner {
-      text-align: center;
-      background-color: #ffebcc;
-      padding: 20px;
-      border-radius: 10px;
-      margin-bottom: 20px;
-    }
-    .preview img {
-      max-width: 100%;
-      border-radius: 10px;
-      margin-bottom: 20px;
-    }
-    .features, .technologies, .setup {
-      margin-bottom: 30px;
-    }
-    .btn-demo {
-      background-color: #d17b00;
-      color: white;
-      padding: 10px 20px;
-      border: none;
-      border-radius: 5px;
-    }
-    .btn-demo:hover {
-      background-color: #b15c00;
-    }
-  </style>
+  
 </head>
 <body>
   <header class="banner">
